@@ -3,14 +3,14 @@ Business Analytics project analyzing product optimization and revenue contributi
 
 SQL Concepts Demonstrated
 
-✔ SELECT
-✔ WHERE
-✔ GROUP BY
-✔ ORDER BY
-✔ LIMIT
-✔ Aggregate Functions (SUM, COUNT)
-✔ Subqueries
-✔ Common Table Expressions (CTEs)
-✔ Window Functions (RANK)
-✔ Logical Operators
-✔ ROUND Function
+SELECT
+GROUP BY
+ORDER BY
+LIMIT
+Aggregate Functions
+Subqueries
+HAVING
+CTEs
+Window Functions
+RANK()
+DENSE_RANK()
