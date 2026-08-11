@@ -134,7 +134,7 @@ streamlit run app.py
 
 **Kehkasha Ansari**
 Business Analyst Intern, Unified Mentor Pvt. Ltd.
-[LinkedIn](https://www.linkedin.com/in/kehkasha-ansari/) · [GitHub](https://github.com/kehkasha786)
+[LinkedIn](www.linkedin.com/in/kehkasha-ansari) · [GitHub](https://github.com/kehkasha786)
 
 ---
 
