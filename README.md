@@ -33,7 +33,7 @@ interactive web dashboard — using Python, MySQL, Power BI, and Streamlit.
 ## 🧠 Key Insights
 
 - **Revenue is highly concentrated.** Just **11 of 29 product types generate 80%** of total
-  revenue — a clear 80/20 (Pareto) pattern.
+  revenue — indicating a strong Pareto-like concentration pattern.
 - **The top 10 products alone account for 78.96%** of total revenue.
 - **Coffee and Tea dominate**, together contributing **66.7%** of total revenue across all
   9 categories.
